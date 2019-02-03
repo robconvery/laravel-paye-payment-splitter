@@ -1,0 +1,11 @@
+{
+    "name": "robconvery/laravel-paye-payment-splitter",
+    "description": "Utility of PAYE payment calculations",
+    "authors": [
+        {
+            "name": "Robert Convery",
+            "email": "robconvery@me.com"
+        }
+    ],
+    "require": {}
+}
