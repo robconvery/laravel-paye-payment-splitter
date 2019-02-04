@@ -231,7 +231,7 @@
 
     <div class="container-fluid">
 
-        <h1>Dividend Calculator</h1>
+        <h2 class="page-heading">Dividend Calculator</h2>
 
         <form method="post" name="frm" id="frm">
 
