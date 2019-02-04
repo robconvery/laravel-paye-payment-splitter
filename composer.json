@@ -7,5 +7,17 @@
             "email": "robconvery@me.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Robconvery\\LaravelPayePaymentSplitter\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Robconvery\\LaravelPayePaymentSplitter\\PackageServiceProvider"
+            ]
+        }
+    }
 }
