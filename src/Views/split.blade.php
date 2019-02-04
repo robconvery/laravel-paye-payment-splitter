@@ -257,11 +257,11 @@
 
             <div class="form-group mb-3">
 
-                <button class="btn btn-outline-success mr-2 mb-1" type="button" data-toggle="tooltip" title="Add a payment line." id="add_payment">Add Payment</button>
+                <button class="btn btn-success mr-2 mb-1" type="button" data-toggle="tooltip" title="Add a payment line." id="add_payment">Add Payment</button>
 
-                <button class="btn btn-outline-danger mr-2 mb-1" type="button" data-toggle="tooltip" title="Remove a new payment line." id="remove_payment" disabled>Remove Payment</button>
+                <button class="btn btn-danger mr-2 mb-1" type="button" data-toggle="tooltip" title="Remove a new payment line." id="remove_payment" disabled>Remove Payment</button>
 
-                <button class="btn btn-outline-primary mb-1" type="button" data-toggle="tooltip" id="reset" title="Reload the page.">Reset</button>
+                <button class="btn btn-primary mb-1" type="button" data-toggle="tooltip" id="reset" title="Reload the page.">Reset</button>
 
             </div>
 
