@@ -231,7 +231,7 @@
 
     <div class="container-fluid">
 
-        <h2 class="page-heading">Dividend Calculator</h2>
+        <h2 class="page-heading">Payment Calculator</h2>
 
         <form method="post" name="frm" id="frm">
 
@@ -239,10 +239,10 @@
 
             <div class="form-group">
 
-                <label for="totalTax">Monthly Total Tax Allowance</label>
+                <label for="totalTax">Monthly PAYE Payment</label>
                 <input type="number" type="number" step="0.01" class="form-control col-3" id="totalTax" aria-describedby="totalTax" placeholder="Total Tax" value="1000" min="0">
                 <small class="form-text text-muted">
-                    This is the total tax allowance for the month.
+                    This is the PAYE payment for the month.
                 </small>
 
             </div>
@@ -251,7 +251,7 @@
 
                 <label for="totalPaid">Total Amount Paid</label>
                 <input type="number" type="number" step="0.01" class="form-control col-3"  aria-describedby="totalPaid" placeholder="Total Paid" value="0" disabled id="totalPaid">
-                <small class="form-text text-muted">Total payments made within period</small>
+                <small class="form-text text-muted">Total payments made within the period</small>
 
             </div>
 
